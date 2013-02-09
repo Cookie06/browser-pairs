@@ -130,7 +130,7 @@ body {
 #game.open #gameIntro {
   opacity: 1;
   z-index: 3;
-  background: url(./images/start.png) center center no-repeat;
+  background: url(./http://1.bp.blogspot.com/_bE58EagaEXc/TBocBMgkJLI/AAAAAAAAAOI/3haYBaAAXwA/s1600/rhino_cartoon_2.jpg) center center no-repeat;
 }
 
 #game.play #gameIntro, #game.end #gameIntro {
